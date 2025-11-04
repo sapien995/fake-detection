@@ -1,0 +1,5 @@
+{
+  "name": "K-TRUTH: Digital Disinformation Intelligence System",
+  "description": "An AI-powered system to identify and track the spread of online propaganda or fake news targeting Kenya by monitoring social media, performing NLP analysis, and visualizing narrative networks.",
+  "requestFramePermissions": []
+}
